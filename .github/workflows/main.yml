@@ -1,4 +1,4 @@
-name: env
+name: env test
 on:
   push:
     branches: [ main ]
